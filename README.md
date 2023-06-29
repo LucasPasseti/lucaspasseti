@@ -33,9 +33,4 @@
  
 </div>
 
-##
 
-<div align = "center">
-   <b>Thanks for your visit!</b></br>
-   <img width="180px"src="https://media1.giphy.com/media/XgH0beW46tK3HDn5hP/giphy.gif?cid=790b76115f388660b104c6b93ceb3ff17e684f30381f0c7e&rid=giphy.gif&ct=s">
-</div>
