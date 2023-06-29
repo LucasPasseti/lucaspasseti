@@ -10,14 +10,14 @@
 ##
   
 <br><div  align="center"> 
-  <a href = "mailto:emanuelletakenawa2@gmail.com"><img height="65" width="65" src="https://img.icons8.com/dusk/512/gmail.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuelle-takenawa-32b6a1257/" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
+  <a href = "mailto:emanuelletakenawa2@gmail.com"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/81ceff/gmail.png" alt="gmail"/></a>
+  <a href="https://www.linkedin.com/in/lucas-passeti-a6597a237/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/81ceff/linkedin.png" alt="linkedin"/></a> 
 </div>
 
 ## 
 
 <div align="center">
-  <a href="https://github.com/emanuelletakenawa">
+  <a href="https://github.com/lucaspasseti">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emanuelletakenawa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelletakenawa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
