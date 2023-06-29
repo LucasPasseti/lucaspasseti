@@ -10,7 +10,7 @@
 ##
   
 <br><div  align="center"> 
-  <a href = "mailto:emanuelletakenawa2@gmail.com"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/81ceff/gmail.png" alt="gmail"/></a>
+  <a href = "mailto:lucaspasseti10@gmail.com"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/81ceff/gmail.png" alt="gmail"/></a>
   <a href="https://www.linkedin.com/in/lucas-passeti-a6597a237/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/81ceff/linkedin.png" alt="linkedin"/></a> 
 </div>
 
@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/lucaspasseti">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emanuelletakenawa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelletakenawa&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaspasseti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspasseti&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div aling="center" ><br>
@@ -27,11 +27,9 @@
   <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manu-react" height="60" width="35"src="https://icongr.am/devicon/react-original.svg?size=128&color=000000" />
-  <img align="center" alt="Manu-styledComponents" height="30" width="35"src="https://img.icons8.com/color/256/styled-components.png" />
   <img align="center" alt="Manu-GitHub" height="40" width="40"src="https://img.icons8.com/fluency/512/github.png" />
   <img align="center" alt="Manu-VsCode " height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Manu-Figma" height="35" width="35"src="https://img.icons8.com/fluency/2x/figma.png" />
-  <img align="center" alt="Manu-trello" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  <img align="center" alt="Manu-VsCode " width="65" height="65" src="https://img.icons8.com/color/65/nodejs.png" alt="nodejs" />
  
 </div>
 
