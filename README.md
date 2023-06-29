@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81CEFF&width=435&lines=My+name+is+Lucas+Passeti" alt="Typing SVG" /></a>
 </div
   
-- I’m currently learning Front-End Develompent
+- I’m currently learning Full Stack Develompent
  <br> <br>
 - <a href="https://github.com/lucaspasseti?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-000?style=for-the-badge&logo=ko-fi&logoColor=87cefa) </a>
 ##
