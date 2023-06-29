@@ -6,7 +6,7 @@
   
 - I’m currently learning Full Stack Develompent
  <br> <br>
-- <a href="https://github.com/lucaspasseti?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-000?style=for-the-badge&logo=ko-fi&logoColor=87cefa) </a>
+- <a href="https://github.com/lucaspasseti?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-b7d5e5?style=for-the-badge&logo=ko-fi&logoColor=87cefa) </a>
 ##
   
 <br><div  align="center"> 
